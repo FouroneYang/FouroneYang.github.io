@@ -1,0 +1,15 @@
+{
+	"college": [{
+			"School": "Boston University",
+			"Program": "Computer Science",
+			"Type": "MS",
+			"Yearconferred": 2023
+		},
+		{
+			"School": "Beijing University of Chemical Technology",
+			"Program": "Chemical Engineering",
+			"Type": "BS",
+			"Yearconferred": 2021
+		}
+	]
+}
