@@ -1,6 +1,6 @@
-# anli
+# METCS601 Final Project
 
-> A Vue.js project
+> Personal Website of Shiyi Yang
 
 ## Build Setup
 
